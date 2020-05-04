@@ -50,3 +50,15 @@ Given two sorted linked lists, merge them and return a single linked list.
 1. Make sure to keep going even if one of the lists doesn't have items.
 2. no need to check nodes value if it doesn't exist
 3. While loop will keep Time complexity shorter.
+
+## [Problem 3](https://leetcode.com/problems/palindrome-number/)
+
+### Time complexity
+
+The overall time complexity is O(logx) base(10) where k is the integer input.
+
+## [Problem 4](https://leetcode.com/problems/reverse-integer/)
+
+### Time complexity:
+
+The overall time complexity is O(logk) base(10) where k is the integer input.
